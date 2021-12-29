@@ -1,0 +1,15 @@
+form{
+  max-width: 350px;
+  float: left;
+}
+
+.card{
+  margin-left: 50px;
+}
+
+.cards{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 150px;
+}
